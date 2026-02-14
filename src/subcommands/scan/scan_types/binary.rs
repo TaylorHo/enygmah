@@ -8,7 +8,7 @@ pub async fn analyze(path: &String) {
         logger::EnygmahLogType::Warn,
     );
     logger::create_log(
-        "To be up-to-date with improvements on this tool, check https://github.com/hotaydev/enygmah",
+        "To be up-to-date with improvements on this tool, check https://github.com/TaylorHo/enygmah",
         logger::EnygmahLogType::Info,
     );
 }

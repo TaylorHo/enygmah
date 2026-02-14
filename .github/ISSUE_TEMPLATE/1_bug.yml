@@ -11,14 +11,14 @@ body:
         If you are looking for support, please check out our documentation
         or consider asking a question on our Github Discussions Page:
 
-          - https://github.com/hotaydev/enygmah/wiki
-          - https://github.com/hotaydev/enygmah/discussions/
+          - https://github.com/TaylorHo/enygmah/wiki
+          - https://github.com/TaylorHo/enygmah/discussions/
   - type: markdown
     attributes:
       value: |
         Before filling the form fields, please consider the following:
-        - Ensure that you have searched the [existing issues](https://github.com/hotaydev/enygmah/issues)
-        - Read the "Submit an Issue" section of our [Contributing Guide](https://github.com/hotaydev/enygmah/blob/main/CONTRIBUTING.md#submit-an-issue)
+        - Ensure that you have searched the [existing issues](https://github.com/TaylorHo/enygmah/issues)
+        - Read the "Submit an Issue" section of our [Contributing Guide](https://github.com/TaylorHo/enygmah/blob/main/CONTRIBUTING.md#submit-an-issue)
   - type: textarea
     attributes:
       label: Steps to reproduce

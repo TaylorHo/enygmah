@@ -1,4 +1,4 @@
-# Hotay and enygmah's Code of Conduct
+# enygmah's Code of Conduct
 
 ## Our Pledge
 

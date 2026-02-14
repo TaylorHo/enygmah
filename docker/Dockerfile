@@ -1,7 +1,7 @@
-FROM alpine:3.22@sha256:4b7ce07002c69e8f3d704a9c5d6fd3053be500b7f1c69fc0d80990c2ad8dd412
+FROM alpine:3.23@sha256:25109184c71bdad752c8312a8623239686a9a2071e8825f20acb8f2198c3f659
 
 LABEL maintainer="Taylor Hoffmann <taylor@hoffmann.io>"
-LABEL version="1.0.1"
+LABEL version="1.0.0"
 LABEL description="Automate vulnerability analysis within several tools"
 LABEL license="AGPL-3.0"
 LABEL tags="security, vulnerability, analysis"

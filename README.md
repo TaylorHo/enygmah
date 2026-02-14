@@ -5,18 +5,18 @@
 <h4 align="center">The only tool your project needs to ensure security and quality.<br/>Open-source and free.</h4>
 
 <div align="center">
-    <a href="https://github.com/hotaydev/enygmah/">Home Page</a> |
-    <a href="https://github.com/hotaydev/enygmah/wiki">Documentation</a> |
-    <a href="https://github.com/hotaydev/enygmah/discussions">Discussions</a><br/>
+    <a href="https://github.com/TaylorHo/enygmah/">Home Page</a> |
+    <a href="https://github.com/TaylorHo/enygmah/wiki">Documentation</a> |
+    <a href="https://github.com/TaylorHo/enygmah/discussions">Discussions</a><br/>
     <!-- <a href="https://crowdfunding.lfx.linuxfoundation.org/projects/34506417-17a0-4cc1-a54b-2563d098d860">Crowdfunding - The Linux Foundation</a> -->
 </div>
 <br></br>
 
 <div align="center">
-  <a href="https://github.com/sponsors/hotaydev" alt="GitHub Sponsors"><img src="https://img.shields.io/github/sponsors/hotaydev?color=%23DB61A2"/></a>
-  <a href="https://github.com/hotaydev/enygmah/issues" alt="GitHub Issues"><img src="https://img.shields.io/github/issues/hotaydev/enygmah"/></a>
-  <a href="https://github.com/hotaydev/enygmah/pulls" alt="GitHub pull requests"><img src="https://img.shields.io/github/issues-pr/hotaydev/enygmah"/></a>
-  <a href="https://github.com/hotaydev/enygmah/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors-anon/hotaydev/enygmah?color=%230594c6"/></a>
+  <a href="https://github.com/sponsors/TaylorHo" alt="GitHub Sponsors"><img src="https://img.shields.io/github/sponsors/TaylorHo?color=%23DB61A2"/></a>
+  <a href="https://github.com/TaylorHo/enygmah/issues" alt="GitHub Issues"><img src="https://img.shields.io/github/issues/TaylorHo/enygmah"/></a>
+  <a href="https://github.com/TaylorHo/enygmah/pulls" alt="GitHub pull requests"><img src="https://img.shields.io/github/issues-pr/TaylorHo/enygmah"/></a>
+  <a href="https://github.com/TaylorHo/enygmah/graphs/contributors" alt="GitHub contributors"><img src="https://img.shields.io/github/contributors-anon/TaylorHo/enygmah?color=%230594c6"/></a>
   <!-- <a href="https://www.bestpractices.dev/projects/xxxx"><img src="https://www.bestpractices.dev/projects/xxxx/badge"></a> -->
 </div>
 
@@ -36,7 +36,7 @@
 
 ## 🤔 Why enygmah?
 
-[enygmah](https://github.com/hotaydev/enygmah/) is a [Free and Open Source Software](https://www.gnu.org/philosophy/floss-and-foss.html) (FOSS), created to streamline and **simplify security and code quality processes** through static code analyses (SAST) and dynamic code analyses (DAST). Its goal is to be **user-friendly** and **easy to use** even by those who do not want to be an expert in security.
+[enygmah](https://github.com/TaylorHo/enygmah/) is a [Free and Open Source Software](https://www.gnu.org/philosophy/floss-and-foss.html) (FOSS), created to streamline and **simplify security and code quality processes** through static code analyses (SAST) and dynamic code analyses (DAST). Its goal is to be **user-friendly** and **easy to use** even by those who do not want to be an expert in security.
 
 Enygmah was created to consolidate many processes into a single solution. It offers:
 
@@ -51,7 +51,7 @@ And the best part? **It's completely free and open source!**
 
 ## 👀 How can I use it?
 
-To start using enygmah, simply go to our [releases](https://github.com/hotaydev/enygmah/releases/latest) page and download the latest version of enygmah (we offer different versions for Linux (or Windows WSL), macOS).
+To start using enygmah, simply go to our [releases](https://github.com/TaylorHo/enygmah/releases/latest) page and download the latest version of enygmah (we offer different versions for Linux (or Windows WSL), macOS).
 
 <sub>NOTE: This tool is strictly integrated into Docker, so to use it you need to have Docker installed. For Windows machines, make sure to execute it from inside the WSL.</sub>
 <sub>You can use it as a standalone application, running it right from the binary/executable folder, or you can add it to the path of your system.</sub>
@@ -69,26 +69,26 @@ We currently have two main commands:
 
 * `enygmah scan <target>`: Scans a folder, repository (remote or local), a web application or a docker image (it depend's on what you pass as the `<target>` parameter).
   * Example: `enygmah scan .` (current folder)
-  * Example: `enygmah scan https://github.com/hotaydev/enygmah.git` (remote repository)
+  * Example: `enygmah scan https://github.com/TaylorHo/enygmah.git` (remote repository)
   * Example: `enygmah scan deian` (Docker image)
 * `enygmah install`: It downloads all the nedded Docker images. If not runned, it will automatically download the images when running `enygmah scan`.
 
 
 ## 📚 Learn more
 
-* Documentation: [Wiki](https://github.com/hotaydev/enygmah/wiki)
-* Discussions: [Github Discussions](https://github.com/hotaydev/enygmah/discussions)
-  * [Questions and Answers](https://github.com/hotaydev/enygmah/discussions/categories/q-a)
-  * [Announcements](https://github.com/hotaydev/enygmah/discussions/categories/announcements)
-  * [Ideas](https://github.com/hotaydev/enygmah/discussions/categories/ideas)
+* Documentation: [Wiki](https://github.com/TaylorHo/enygmah/wiki)
+* Discussions: [Github Discussions](https://github.com/TaylorHo/enygmah/discussions)
+  * [Questions and Answers](https://github.com/TaylorHo/enygmah/discussions/categories/q-a)
+  * [Announcements](https://github.com/TaylorHo/enygmah/discussions/categories/announcements)
+  * [Ideas](https://github.com/TaylorHo/enygmah/discussions/categories/ideas)
 
 ## 🫶 Support enygmah Development
 
-If you find enygmah useful and want to help us keep the project growing, please consider supporting our project with [Github Sponsors](https://github.com/sponsors/hotaydev). Your support shows our contributors that their efforts are appreciated and motivates them to continue their excellent work. Every contribution, no matter how small, helps us keep improving enygmah.
+If you find enygmah useful and want to help us keep the project growing, please consider supporting our project with [Github Sponsors](https://github.com/sponsors/TaylorHo). Your support shows our contributors that their efforts are appreciated and motivates them to continue their excellent work. Every contribution, no matter how small, helps us keep improving enygmah.
 
 ## 💡 Feature requests
 
-We value your input on improving enygmah and making it more useful for you. If you have any ideas or feature requests, please share them in the [enygmah discussions: Ideas](https://github.com/hotaydev/enygmah/discussions/categories/ideas) section or by [opening an Issue](https://github.com/hotaydev/enygmah/issues/new) here on Github.
+We value your input on improving enygmah and making it more useful for you. If you have any ideas or feature requests, please share them in the [enygmah discussions: Ideas](https://github.com/TaylorHo/enygmah/discussions/categories/ideas) section or by [opening an Issue](https://github.com/TaylorHo/enygmah/issues/new) here on Github.
 
 Your feedback helps us understand our users' needs and prioritize the features that matter most to you. We appreciate your time and effort in sharing your thoughts with us.
 
@@ -99,7 +99,7 @@ Also, if you've liked someone's Feature request, upvote it! It helps us prioriti
 ## 🌟 Contributing to enygmah
 
 To start contributing to enygmah, please read [CONTRIBUTING.md](CONTRIBUTING.md).
-There are ways to contribute [with code](https://github.com/hotaydev/enygmah/blob/main/CONTRIBUTING.md#code-contributions) and [without code](https://github.com/enygmah/enygmah/blob/main/CONTRIBUTING.md#how-can-i-help). We welcome all contributions, big or small, and we appreciate your time and effort in helping us improve enygmah. We look forward to your contributions 🚀
+There are ways to contribute [with code](https://github.com/TaylorHo/enygmah/blob/main/CONTRIBUTING.md#code-contributions) and [without code](https://github.com/enygmah/enygmah/blob/main/CONTRIBUTING.md#how-can-i-help). We welcome all contributions, big or small, and we appreciate your time and effort in helping us improve enygmah. We look forward to your contributions 🚀
 
 ### 🛠️ Setting Up a Development Environment
 
@@ -151,14 +151,14 @@ Thank you to all those who inspire us, and we look forward to seeing what the en
 
 # 🙏 Thank You
 
-We want to express our sincere gratitude to our **[Github Sponsors](https://github.com/sponsors/hotaydev)** and the **[contributors](https://github.com/hotaydev/enygmah/graphs/contributors)** of the project. Your support and contributions allow us to continue developing and improving enygmah. Thank you for being a part of our community and helping us make enygmah the best it can be!
+We want to express our sincere gratitude to our **[Github Sponsors](https://github.com/sponsors/TaylorHo)** and the **[contributors](https://github.com/TaylorHo/enygmah/graphs/contributors)** of the project. Your support and contributions allow us to continue developing and improving enygmah. Thank you for being a part of our community and helping us make enygmah the best it can be!
 
 <!-- Leave commented till have more contributors -->
 <!--
 ## 🌟 Contributors
 
 <p align="center">
-    <a href="https://github.com/hotaydev/enygmah/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=hotaydev/enygmah&max=300&columns=14" width="600"/></a>
+    <a href="https://github.com/TaylorHo/enygmah/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=TaylorHo/enygmah&max=300&columns=14" width="600"/></a>
 </p>
 -->

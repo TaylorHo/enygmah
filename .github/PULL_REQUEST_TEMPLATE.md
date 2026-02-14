@@ -13,6 +13,6 @@
 If you need help, consider asking for advice on [Github Discussions] page.
 
 <!-- Links -->
-[Contribution Guide]: https://github.com/hotaydev/enygmah/blob/main/CONTRIBUTING.md
-[.github/CODEOWNERS]: https://github.com/hotaydev/enygmah/blob/main/.github/CODEOWNERS
-[Github Discussions]: https://github.com/hotaydev/enygmah/discussions
+[Contribution Guide]: https://github.com/TaylorHo/enygmah/blob/main/CONTRIBUTING.md
+[.github/CODEOWNERS]: https://github.com/TaylorHo/enygmah/blob/main/.github/CODEOWNERS
+[Github Discussions]: https://github.com/TaylorHo/enygmah/discussions

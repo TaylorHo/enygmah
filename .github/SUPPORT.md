@@ -26,7 +26,7 @@ GitHub
 If you encounter an issue or have a suggestion, head on over to enygmah's [issues] and if there isn't a ticket covering it, [create one].
 
 <!-- Links -->
-[Github Discussions]: https://github.com/hotaydev/enygmah/discussions
-[documentation]: https://github.com/hotaydev/enygmah/wiki
-[issues]: https://github.com/hotaydev/enygmah/issues
-[create one]: https://github.com/hotaydev/enygmah/issues/new
+[Github Discussions]: https://github.com/TaylorHo/enygmah/discussions
+[documentation]: https://github.com/TaylorHo/enygmah/wiki
+[issues]: https://github.com/TaylorHo/enygmah/issues
+[create one]: https://github.com/TaylorHo/enygmah/issues/new

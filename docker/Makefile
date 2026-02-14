@@ -1,5 +1,5 @@
 
-IMAGE_NAME = hotay/enygmah
+IMAGE_NAME = taylorho/enygmah
 
 build:
 	docker build -t $(IMAGE_NAME):latest .

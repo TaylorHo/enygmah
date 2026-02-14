@@ -24,7 +24,7 @@ Please read and follow our [Code of Conduct][coc].
 There are many ways you can help. Here are some ways to help without coding:
 
 - You can be help others on our [Github Discussions Page][discussions].
-- You can [contribute to the official docs](https://github.com/hotaydev/enygmah-docs).
+- You can [contribute to the official docs](https://github.com/TaylorHo/enygmah-docs).
 - You can confirm bugs on the [issue tracker][issue-tracker] and mention reproducible steps. It helps the core team to get more reports so we can fix the highest priority bugs.
 <!-- - You can contribute to [translations][translations] with a [pull request](#submit-a-pull-request-pr). -->
 
@@ -32,7 +32,7 @@ For ways to help with coding, read the next section.
 
 ### Code Contributions
 
-For contributors who want to help with coding, we have a list of [good first issues](https://github.com/hotaydev/enygmah/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) to help you get started.
+For contributors who want to help with coding, we have a list of [good first issues](https://github.com/TaylorHo/enygmah/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) to help you get started.
 These are issues that are beginner-friendly and do not require advanced knowledge of the codebase. We encourage new contributors to start with these issues and gradually work their way up to more challenging tasks.
 
 ## Got a Question or a Problem?
@@ -119,16 +119,16 @@ When submitting a Pull Request (PR) or expecting a subsequent review, please fol
 ### PR Additional Links
 
 * To run enygmah locally, just clone this repo, run `cargo build` and test analyzing it's own source code with `cargo run -- scan .`
-* For security vulnerabilities reports, see our [Securitity Guide](https://github.com/hotaydev/enygmah/blob/main/.github/SECURITY.md).
-* If you need some other support, [he have a doc for that](https://github.com/hotaydev/enygmah/blob/main/.github/SUPPORT.md).
+* For security vulnerabilities reports, see our [Securitity Guide](https://github.com/TaylorHo/enygmah/blob/main/.github/SECURITY.md).
+* If you need some other support, [he have a doc for that](https://github.com/TaylorHo/enygmah/blob/main/.github/SUPPORT.md).
 
 ## Thank You
 
 Your contributions to open source, large or small, make great projects like this possible. Thank you for taking the time to contribute.
 
-[coc]: https://github.com/hotaydev/enygmah/blob/main/.github/CODE_OF_CONDUCT.md "enygmah Code Of Conduct"
-[discussions]: https://github.com/hotaydev/enygmah/discussions/categories/q-a "Github Discussions"
-[github]: https://github.com/hotaydev/enygmah "enygmah Repo"
-[issue-tracker]: https://github.com/hotaydev/enygmah/issues "enygmah Issue Tracker"
-[new-issue]: https://github.com/hotaydev/enygmah/issues/new "Submit a New issue"
-[search-pr]: https://github.com/hotaydev/enygmah/pulls "Search open PRs"
+[coc]: https://github.com/TaylorHo/enygmah/blob/main/.github/CODE_OF_CONDUCT.md "enygmah Code Of Conduct"
+[discussions]: https://github.com/TaylorHo/enygmah/discussions/categories/q-a "Github Discussions"
+[github]: https://github.com/TaylorHo/enygmah "enygmah Repo"
+[issue-tracker]: https://github.com/TaylorHo/enygmah/issues "enygmah Issue Tracker"
+[new-issue]: https://github.com/TaylorHo/enygmah/issues/new "Submit a New issue"
+[search-pr]: https://github.com/TaylorHo/enygmah/pulls "Search open PRs"

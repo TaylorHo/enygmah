@@ -1,6 +1,6 @@
 # Security Policy
 
-To report a security issue, you can open a [new issue](https://github.com/hotaydev/enygmah/issues/new).
+To report a security issue, you can open a [new issue](https://github.com/TaylorHo/enygmah/issues/new).
 
 Vulnerabilities related to our Docker image will not have priority in fixes, since it doesn't open any ports to the internet and, thus, the vulnerabilities are most related to the security scanners.
 
